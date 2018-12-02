@@ -6,7 +6,7 @@
         "URL": "https://github.com/login/oauth/authorize",
         "CLIENT_ID": "",
         "CLIENT_DOMAIN": "",
-        "REDIRECT_URI": "",
+        "REDIRECT_URI": "xoeseko.github.io/sdg-market-frontend/callback/",
         "SCOPE": "user user:email repo"
     },
     "localStorageJWT": "git-trading-jwt"

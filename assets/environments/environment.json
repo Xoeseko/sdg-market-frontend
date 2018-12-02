@@ -1,7 +1,7 @@
 {
     "production": true,
     "baseUrl": "xoeseko.github.io/sdg-market-frontend",
-    "baseAPIUrl": "xoeseko.github.io/sdg-market-frontend//app/services/api/",
+    "baseAPIUrl": "xoeseko.github.io/sdg-market-frontend/app/services/api/",
     "githubAuth": {
         "URL": "",
         "CLIENT_ID": "",

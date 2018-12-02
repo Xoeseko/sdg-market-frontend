@@ -3,7 +3,7 @@
     "baseUrl": "xoeseko.github.io/sdg-market-frontend",
     "baseAPIUrl": "xoeseko.github.io/sdg-market-frontend/app/services/api/",
     "githubAuth": {
-        "URL": "",
+        "URL": "https://github.com/login/oauth/authorize",
         "CLIENT_ID": "",
         "CLIENT_DOMAIN": "",
         "REDIRECT_URI": "",

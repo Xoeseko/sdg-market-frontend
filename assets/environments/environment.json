@@ -1,12 +1,12 @@
 {
     "production": true,
-    "baseUrl": "xoeseko.github.io/sdg-market-frontend",
-    "baseAPIUrl": "xoeseko.github.io/sdg-market-frontend/app/services/api/",
+    "baseUrl": "",
+    "baseAPIUrl": "",
     "githubAuth": {
-        "URL": "https://github.com/login/oauth/authorize",
+        "URL": "",
         "CLIENT_ID": "",
         "CLIENT_DOMAIN": "",
-        "REDIRECT_URI": "xoeseko.github.io/sdg-market-frontend/callback/",
+        "REDIRECT_URI": "",
         "SCOPE": "user user:email repo"
     },
     "localStorageJWT": "git-trading-jwt"
